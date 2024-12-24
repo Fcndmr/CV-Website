@@ -1,0 +1,67 @@
+{
+    "personalInfo" : {
+         "firstName" : "Efe Can",
+         "lastName":"Demir",
+         "title":"Developer",
+         "address":"Istanbul",
+         "email":"example@gmail.com",
+         "phone":"0000 000 00 00"
+    },
+ 
+    "skills" : [
+     {"name" : "C#", "level" : 50 },
+     {"name" : "JavaScript", "level" : 50},
+     {"name" : "HTML", "level" : 50},
+     {"name" : "CSS", "level" : 50},
+     {"name" : "MSSQL", "level" : 50}
+     ],
+ 
+     "languages" : [
+         {"name" : "English", "level" : 50 },
+         {"name" : "X", "level" : 60 },
+         {"name" : "Y", "level" : 40 }
+     ],
+ 
+     "workExperience": [
+         {
+           "title": "Developer",
+           "company": "x",
+           "startDate": "04-2024",
+           "endDate": "Current",
+           "description": "Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic."
+         },
+         {
+          "title": "x",
+          "company": "y",
+          "startDate": "04-2023",
+          "endDate": "04-2023",
+          "description": "Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic."
+        }
+       ],
+ 
+       "education": [
+         {
+           "school": "University",
+           "educationYears": "2018-2023",
+           "section": "Engineering"
+         },
+         {
+          "school": "University",
+          "educationYears": "2018-2023",
+          "section": "Engineering"
+        },
+        {
+          "school": "University",
+          "educationYears": "2018-2023",
+          "section": "Engineering"
+        }
+       ],
+       "socialIcons":[
+          "fa-facebook-official",
+          "fa-instagram",
+          "fa-snapchat",
+          "fa-pinterest-p",
+          "fa-twitter",
+          "fa-linkedin"
+       ]
+ }
